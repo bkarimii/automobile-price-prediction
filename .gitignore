@@ -4,3 +4,5 @@ auto-price-prediction/
 # Ignore Python cache files
 __pycache__/
 *.pyc
+
+.~lock.Automobile price data _Raw_.csv#
