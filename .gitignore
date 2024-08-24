@@ -1,0 +1,6 @@
+# Ignore virtual environment
+auto-price-prediction/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
